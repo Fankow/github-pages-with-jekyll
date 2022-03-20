@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+
+
+title: "Welcome to your blog"
+date: 2022-03-20
+
 ---
 title : ig is good
 # Welcome
